@@ -1,0 +1,22 @@
+{
+  "name": "precise-timer",
+  "description": "A precise timer - for Node.js",
+  "author": "Thomas Frank <thomas@nodebite.se (http://nodebite.se)",
+  "version": "1.0.",
+  "main": "precise-timer.class.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ironboy/precise-timer"
+  },
+  "bugs": "https://github.com/ironboy/precise-timer/issues",
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.4.1"
+  },
+  "tonicExampleFilename": "tonic-example.js"
+}
