@@ -2,7 +2,7 @@
   "name": "precise-timer",
   "description": "A precise timer - for Node.js",
   "author": "Thomas Frank <thomas@nodebite.se (http://nodebite.se)",
-  "version": "1.0.",
+  "version": "1.0.0",
   "main": "precise-timer.class.js",
   "repository": {
     "type": "git",
