@@ -3,7 +3,7 @@ A precise timer for Node.js. Delivers its result in milliseconds with decimals. 
 
 ## Usage
 
-**npm install fair-share**
+**npm install precise-timer**
 
 ### Example
 
